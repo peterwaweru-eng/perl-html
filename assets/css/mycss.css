@@ -11,8 +11,11 @@ button{
     background-color: white;
     border-radius: 10px;
     border: none;
-    cursor;pointer-events: none;
+
     font-size: 20px;
 }
 
+button:hover{
+    cursor:none
 
+}
