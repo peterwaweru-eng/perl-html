@@ -1,0 +1,23 @@
+.cars{
+    background-color: red;
+    padding: 20px;
+    border: 2px solid;
+    margin: 20px;
+    color: white;
+    text-align: center;
+}
+.fruits{ background-color: #725212;
+    padding: 20px;
+    border: 2px solid;
+    margin: 20px;
+    color: #dccaca;
+    text-align: center;
+
+}
+#students{
+    background-color: brown;
+        margin: 20px;
+    color: #cad3dc;
+    text-align: center;
+
+}

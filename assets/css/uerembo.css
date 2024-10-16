@@ -1,0 +1,11 @@
+table{
+    width:100%
+    border-collapse:collapse;
+}
+th ,td{
+    border:2px solid gold;
+    padding: 10px;
+}
+h2{
+    color: blue;
+  text-align: -moz-center;}
